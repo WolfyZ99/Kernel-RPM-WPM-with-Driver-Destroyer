@@ -16,7 +16,7 @@ For Kernel AC's (EAC/BattlEye/ESPORTAL/ESL Wire)
 
 1. Find any public blacklisted certs and sign this driver.
 2. Upload this driver to a host/server.
-3. From your UM app: download this driver from server, load it using SCManager/NtLoadDriver and delete driver file after that.
+3. From your UM app: download this driver from server, load it using SCManager/NtLoadDriver and delete driver file after that (using DeteFileA or it's Kernel equivalent ZwDeleFile).
 
 TODO:
 ---------------------------------------------------------------------------------------------------------
