@@ -9,7 +9,7 @@ For now this should be UD on almost every non-bootloaded ACs (that's for sure de
 For UserMode AC's (VAC etc...)
 ---------------------------------------------------------------------------------------------------------
 
-Just load your Windows in Test-Mode and normally load this driver
+1. Just load your Windows in Test-Mode and normally load this driver
 
 For Kernel AC's (EAC/BattlEye/ESPORTAL/ESL Wire)
 ---------------------------------------------------------------------------------------------------------
