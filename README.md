@@ -22,5 +22,5 @@ TODO:
 ---------------------------------------------------------------------------------------------------------
 Code a UM app which will do the following things:
 1. Send a pID of target process using following IOCTL: IO_GET_ID_REQUEST
-2. Recieve a BaseAddress of target process using following IOCTL: IO_GET_MODULE_REQUEST
+2. Receive a BaseAddress of target process using following IOCTL: IO_GET_MODULE_REQUEST
 3. After that, you're able to read/write memory.
